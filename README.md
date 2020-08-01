@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Information Systems Engineering on Universidad Tecnológica Nacional (🇦🇷)
 - 💼 &nbsp; Working as a Full Stack Web Developer in Verifarma
-- ✍️ &nbsp; Learning Graphic Design and DJing in my free time
+- ✍️ &nbsp; Running & DJing in my free time
 
 <h3>🛠 Tech Stack</h3>
 
