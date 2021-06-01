@@ -20,6 +20,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
+<a href="http://rajnansky.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/rajnansky.com-blue?style=flat-square&logo=web"></a>
 <a href="https://www.linkedin.com/in/mrajnansky"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marcelo%20Rajñansky-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mrajnansky@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mrajnansky@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
